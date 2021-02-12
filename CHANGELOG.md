@@ -1,3 +1,11 @@
+1.1.4 / 2020-02-12
+==================
+
+* Remove os and arch restrictions
+* Remove superfluous assignment (from mojavelinux)
+* Remove unnecessary falsy check (from mojavelinux)
+* Update package-lock.json
+
 1.1.3 / 2017-08-05
 ==================
 
