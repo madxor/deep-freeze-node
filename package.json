@@ -1,7 +1,7 @@
 {
-  "name": "deep-freeze-node",
+  "name": "deep-freeze-node2",
   "version": "1.1.4",
-  "description": "Recursively Object.freeze() objects.",
+  "description": "Recursively Object.freeze() objects [updated].",
   "keywords": [
     "deep",
     "recursive",
@@ -11,9 +11,9 @@
     "freeze",
     "node"
   ],
-  "homepage": "https://github.com/AnatoliyGatt/deep-freeze-node",
+  "homepage": "https://github.com/madxor/deep-freeze-node2",
   "bugs": {
-    "url": "https://github.com/AnatoliyGatt/deep-freeze-node/issues",
+    "url": "https://github.com/madxor/deep-freeze-node2/issues",
     "email": "anatoliy.gatt@aol.com"
   },
   "license": "MIT",
@@ -36,7 +36,7 @@
   "directories": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/AnatoliyGatt/deep-freeze-node.git"
+    "url": "https://github.com/madxor/deep-freeze-node2.git"
   },
   "scripts": {
     "test": "mocha --colors --sort --bail --reporter spec --check-leaks --full-trace --no-timeouts --recursive ./test/*.js",
